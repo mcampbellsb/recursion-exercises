@@ -7,5 +7,7 @@
 # Types, possibly mixed.)
 
 class TypeUpperCaser
-  def self.upcase_type(a); end
+  def self.upcase_type(a)
+
+  end
 end

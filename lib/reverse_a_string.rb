@@ -3,5 +3,7 @@
 # Write a function that will reverse a string.  eg: "recursion" => "noisrucer"
 
 class StringReverser
-  def self.reverse(a); end
+  def self.reverse(a)
+
+  end
 end
